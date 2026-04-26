@@ -120,7 +120,7 @@ const projects = [
       "Project modal with details",
       "Contact form with validation"
     ],
-    githubLink: "https://github.com/yourusername/portfolio-website",
+    githubLink: "https://github.com/ryannn1123/MyPortfolio",
     liveLink: "https://yourusername.github.io/portfolio-website"
   },
   { 
